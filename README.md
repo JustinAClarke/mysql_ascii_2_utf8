@@ -7,7 +7,7 @@ To convert a MySQL ASCII database to a MySQL UTF8 database
 
 ### Installing
 Clone the repo with the below
-`git clone https://bitbucket.org/justin531/mysql_ascii_2_utf8.git`
+`git clone https://github.com/JustinFuhrmeister-Clarke/mysql_ascii_2_utf8.git`
 
 ---
 
@@ -54,7 +54,8 @@ Misc Options (Optional):
 ---
 
 ### Issues
-Please Submit all issues to [Bitbucket.org](https://bitbucket.org/justin531/mysql_ascii_2_utf8/issues/new)
+Please Submit all issues to 
+[github.com](https://github.com/JustinFuhrmeister-Clarke/mysql_ascii_2_utf8.git)
 
 ---
 
