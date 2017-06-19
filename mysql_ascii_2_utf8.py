@@ -131,7 +131,7 @@ class ascii2utf8():
             
     #argument parser for FILE arguments
     def parseArgsFile(self,args):
-        self.tempDir.cleanup()
+#        self.tempDir.cleanup()
         printNice("parseFile")
         self.file = True
         printNice(args.inFile)
