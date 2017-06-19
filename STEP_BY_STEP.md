@@ -8,8 +8,8 @@ Dump Database:
 
 Parse Database:
  * `sed  -i 's|MyISAM|InnoDB|g' {{Tmp File}}`
- * `sed  -i 's|varchar(8000)|varchar(4000)|g' {{Tmp File}}
- * `sed  -i 's|latin1|utf8|g' {{Tmp File}}
+ * `sed  -i 's|varchar(8000)|varchar(4000)|g' {{Tmp File}}`
+ * `sed  -i 's|latin1|utf8|g' {{Tmp File}}`
 
 Import Database:
  * `mysql -u {{USER}} -p --default-character-set=utf8 {{Database Name}} < {{Tmp File}}`
